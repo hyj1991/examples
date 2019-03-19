@@ -1,0 +1,10 @@
+npm-debug.log
+node_modules
+logs
+run
+_book
+*_bak
+app/public/**/*.min.*
+app/public/**/*.debug.*
+app/public/**/*.hashed.*
+app/assets.json
